@@ -1,0 +1,10 @@
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\bin\Debug\Evidencia_.Net.exe.config
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\bin\Debug\Evidencia_.Net.exe
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\bin\Debug\Evidencia_.Net.pdb
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.csprojAssemblyReference.cache
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.Form1.resources
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.Properties.Resources.resources
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.csproj.GenerateResource.cache
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.csproj.CoreCompileInputs.cache
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.exe
+C:\Users\Ing. Aristi!\source\repos\Evidencia_.Net\obj\Debug\Evidencia_.Net.pdb
